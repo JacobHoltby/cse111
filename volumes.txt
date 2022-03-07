@@ -1,0 +1,17 @@
+2022-01-12 21:20:15.348780, 5.0, 5.0, 5.0, 0.00
+2022-01-12, 5.0, 5.0, 5.0, 0.00
+2022-01-12, 5.0, 5.0, 5.0, 0.00
+If new tires are purchased today, 
+they are under waranty until 2022-01-05
+2022-01-12, 185.0, 50.0, 14.0, 24.09
+If new tires are purchased today, 
+they are under waranty until 2022-01-19
+They are under waranty until 2022-01-19
+2022-01-12, 185.0, 50.0, 14.0, 24.09
+2022-01-12, 185, 50.0, 14.0, 24.09
+2022-01-12, 185, 50.0, 14.0, 24.09
+They are under waranty until 2022-01-19
+2022-01-12, 205, 60, 15, 39.92
+These tires are not under waranty
+2022-01-12, 185, 50, 14, 24.09
+These tires are under waranty until 2022-01-19
